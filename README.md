@@ -12,5 +12,6 @@ Analysed food reviews in amazon to predict if the review is positive or not.
 2. Naive Bayes Classifier
 3. Logistic Regression 
 4. Support Vector Machines
+5. Decision Tree (Average Word2Vec, TFIDF Word2Vec)
 
 
